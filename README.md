@@ -35,7 +35,7 @@ The Secret Key is not stored locally on the machine for Security Reasons but is 
 Taking one step further on the Security part, the mail module uses SSL SMTP to make the connection to the e-mail account. Once the connection is made, you'll be provided both the Encoded and Decoded key on your mail which you can use to decrypt the data. The tool can be used on a local machine as well as on a remote machine as well. 
 <br>
 Language: `Python` <br>
-Libraries Used: `Fernet`, `pathlib`, `smtplib`,`datetime`<br>
+Libraries Used: `Fernet`, `pathlib`, `smtplib`, `datetime`<br>
 Platform: `Linux & Windows`<br>
 <br><br>
 
