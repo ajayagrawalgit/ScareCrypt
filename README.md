@@ -2,7 +2,7 @@
 <a  href="https://www.buymeacoffee.com/ajayagrawal">![ScareCryptHeaderBMAC](https://user-images.githubusercontent.com/94609372/235436857-8e588ca2-efb0-4f9b-9f11-75776594e952.png) </a>
 
 <p align="center">
-<a href="https://github.com/ajayagrawalgit/ScareCrypt/blob/master/LICENSE" title="License">
+<a href="https://github.com/ajayagrawalgit/ScareCrypt/blob/main/LICENSE" title="License">
 <img src="https://img.shields.io/github/license/ajayagrawalgit/ScareCrypt?label=License&logo=Github&style=flat-square" alt="ScareCrypt License"/>
 </a>
 <a href="https://github.com/ajayagrawalgit/ScareCrypt/fork" title="Forks">
